@@ -1,0 +1,2 @@
+Model{fName='andris', lName='Orna'}
+Model{fName='andris', lName='Orna'}
